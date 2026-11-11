@@ -4,7 +4,7 @@
 
 TissueMicroscopyBench tests whether AI agents can analyze real tissue microscopy images. Tasks include locating cells and structures, quantifying staining and morphology, and tracking changes over time and after treatment. Each pairs real image data with a specific analysis question and a verifiable answer.
 
-This repo contains 5 sample tasks. They were not selected for the benchmark, but use the same structure and kind of content as benchmark tasks.
+This repo contains 5 sample tasks. They were not selected for the benchmark, but have a similar structure as benchmark tasks.
 
 ## License
 
